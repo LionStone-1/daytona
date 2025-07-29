@@ -196,3 +196,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2025-07-29T15:22:45
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2025-07-29T14:07:28
+considered hot code reloading, restarts required; theoretical continuous operation.
+
