@@ -868,3 +868,6 @@ conceptualized microservices, monolith stood firm; architectural daydreaming.
 ## 2025-11-05T11:03:00
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2025-11-06T21:02:06
+debated best practices, practice put on hold; principles before patterns.
+
