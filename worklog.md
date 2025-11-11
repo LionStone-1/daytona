@@ -877,3 +877,6 @@ considered refactoring strategies, legacy code untouched; renovation planning.
 ## 2025-11-10T10:37:21
 considered refactoring strategies, legacy code untouched; renovation planning.
 
+## 2025-11-11T09:30:18
+considered logging strategies, log files unchanging; traceability in theory.
+
