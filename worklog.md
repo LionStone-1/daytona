@@ -958,3 +958,6 @@ considered refactoring strategies, legacy code untouched; renovation planning.
 ## 2025-11-19T12:39:57
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2025-11-20T12:46:06
+thought about scalability, current scale unmoved; future-proofing in mind.
+
