@@ -973,3 +973,6 @@ mental refactoring in progress, codebase untouched; restructuring thoughts.
 ## 2025-11-21T16:26:37
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2025-11-24T22:53:03
+explored service mesh concepts, network calls direct; theoretical request routing.
+
