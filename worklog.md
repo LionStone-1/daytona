@@ -985,3 +985,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2025-11-25T11:11:12
 rehearsed implementations mentally, keyboard got a rest; preparation is key.
 
+## 2025-11-25T11:33:49
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
