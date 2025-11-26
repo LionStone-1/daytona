@@ -994,3 +994,6 @@ mapped the problem domain, code domain unexplored; charting the course.
 ## 2025-11-25T15:27:57
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2025-11-26T19:03:19
+considered hot code reloading, restarts required; theoretical continuous operation.
+
