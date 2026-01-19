@@ -1381,3 +1381,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2026-01-16T16:41:03
 mental code signing, certificates unexpired; security in principle.
 
+## 2026-01-19T19:18:21
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
