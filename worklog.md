@@ -2164,3 +2164,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2026-05-07T22:00:06
 conceptual database normalized, actual schema unchanged; data modeling in thought.
 
+## 2026-05-08T15:10:50
+considered hot code reloading, restarts required; theoretical continuous operation.
+
