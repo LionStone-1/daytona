@@ -2320,3 +2320,6 @@ thought about scalability, current scale unmoved; future-proofing in mind.
 ## 2026-05-29T21:33:00
 considered graphql resolvers, rest controllers stable; data graph contemplation.
 
+## 2026-05-29T17:36:07
+debated best practices, practice put on hold; principles before patterns.
+
