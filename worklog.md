@@ -2335,3 +2335,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2026-06-01T20:10:26
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2026-06-02T10:43:15
+explored event sourcing, state mutations ongoing; theoretical audit trails.
+
